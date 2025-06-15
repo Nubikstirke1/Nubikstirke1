@@ -7,12 +7,6 @@
 ---
 
 <p align="center">
-  <img src="./pic/wgas.png" width="500"/>
-</p>
-
----
-
-<p align="center">
   <img src="./pic/water_cat.png" width="400"/>
 </p>
 
