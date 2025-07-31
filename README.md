@@ -19,3 +19,10 @@
 
 
 ---
+<p align="center">
+  <img src="./pic/tehword.jpg" width="300"/>
+</p>
+
+<h2 align="center">Tehword The Coder</h2>
+
+
