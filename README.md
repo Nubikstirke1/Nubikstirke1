@@ -20,9 +20,9 @@
 
 ---
 <p align="center">
-  <img src="./pic/tehword.jpg" width="300"/>
+  <img src="./pic/linnet.jpg" width="300"/>
 </p>
 
-<h2 align="center">Tehword The Coder</h2>
+<h2 align="center">Linnet The Coder</h2>
 
 
